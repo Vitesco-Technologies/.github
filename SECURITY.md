@@ -4,5 +4,5 @@
 
 If you find a security issue please
 
-- click issues
-- click report a vulnerability
+- click **security**
+- click **report a vulnerability**
