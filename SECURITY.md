@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you find a [security vulnerability advisory](security/advisories/new)
+If you find a security issue please
 
 - click issues
 - click report a vulnerability
