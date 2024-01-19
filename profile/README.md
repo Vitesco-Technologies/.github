@@ -1,4 +1,4 @@
-## Hi there 👋
+## About us
 
 <!--
 
@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![vitesco-technologies-banner](https://github.com/Vitesco-Technologies/.github/assets/8027933/be5b4c83-df89-4318-868e-02bb9343ed8b)
+Vitesco Technologies is a leading international developer and manufacturer of state-of-the-art powertrain technologies for sustainable mobility. With smart system solutions and components for electric, hybrid and internal combustion drivetrains, Vitesco Technologies makes mobility clean, efficient and affordable.
